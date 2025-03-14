@@ -12,8 +12,6 @@ This repository contains a complex Recurrent Neural Network (RNN) implementation
 - [Neural Network with LSTM Layers](#neural-network-with-lstm-layers)
 - [Main Function](#main-function)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 This project showcases a complex RNN with LSTM units implemented from scratch using vanilla Go. The neural network is designed for sequence prediction tasks and demonstrates the inner workings of LSTM cells, including the input gate, forget gate, output gate, and cell state calculations.
